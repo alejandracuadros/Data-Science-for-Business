@@ -21,6 +21,7 @@ The analysis provides valuable insights into industry resilience and risk assess
 │── 📄 Covid19_Impact_Peru.ipynb (Jupyter Notebook with full analysis)
 │── 📄 Covid19_Impact_Peru.html (Html version)
 │── 📄 README.md (Project documentation)
+│── 📄 Data_covid_industrias (Dataset)
 ```
 
 ## **Technologies Used**  
